@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T11:14:02.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vvFstO1_X5JcsUgG_7jr" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T11:33:06.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2RraBBxRelBTzkZnfbOq" version="21.7.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -91,7 +91,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-26" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=gUPnwTS7-KH_TVUSeCeUrNyv2PQmiDiZdKJAdz39TGMqCUhAdmLYnTvKatYwpm3R" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-26" value="https://index.tatarstan.ru/atp/dashboard/p/0GKZXJbjdJl/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -865,7 +865,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-251" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=gUPnwTS7-KH_TVUSeCeUrNyv2PQmiDiZdKJAdz39TGMqCUhAdmLYnTvKatYwpm3R" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-249">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-251" value="https://index.tatarstan.ru/atp/dashboard/p/5GbjorEk1aY/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-249">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1070,7 +1070,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-352" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=gUPnwTS7-KH_TVUSeCeUrNyv2PQmiDiZdKJAdz39TGMqCUhAdmLYnTvKatYwpm3R" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-350">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-352" value="https://index.tatarstan.ru/atp/dashboard/p/RXQj4DJjNyd/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-350">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1224,7 +1224,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-414" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=BNTITGOicnRSX6xWpwOE9eEhyKplH6iAqHxgaBjLem9LgrBQ6bIJAXQdi1naaEA8" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-412">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-414" value="https://index.tatarstan.ru/atp/dashboard/p/aQ2k8aJjgvW/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-412">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1490,7 +1490,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-481" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=BNTITGOicnRSX6xWpwOE9eEhyKplH6iAqHxgaBjLem9LgrBQ6bIJAXQdi1naaEA8" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-479">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-481" value="https://index.tatarstan.ru/atp/dashboard/p/5POZxM4k0xQ/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-479">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1716,7 +1716,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-525" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=BNTITGOicnRSX6xWpwOE9eEhyKplH6iAqHxgaBjLem9LgrBQ6bIJAXQdi1naaEA8" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-523">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-525" value="https://index.tatarstan.ru/atp/dashboard/p/XyVZed6prDx/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-523">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2608,7 +2608,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-773" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=BNTITGOicnRSX6xWpwOE9eEhyKplH6iAqHxgaBjLem9LgrBQ6bIJAXQdi1naaEA8" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-771">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-773" value="https://index.tatarstan.ru/atp/dashboard/p/WbKZ6MGp4xD/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-771">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2753,7 +2753,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-849" value="https://index.tatarstan.ru/atp/dashboard/53/?native_filters_key=BNTITGOicnRSX6xWpwOE9eEhyKplH6iAqHxgaBjLem9LgrBQ6bIJAXQdi1naaEA8" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-847">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-849" value="https://index.tatarstan.ru/atp/dashboard/p/VoXprxgk3Qm/" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-847">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2766,7 +2766,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-852" value="&lt;div class=&quot;css-6szfdn&quot; style=&quot;box-sizing: border-box; display: flex; overflow: hidden; text-overflow: ellipsis;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Inter, Helvetica, Arial&quot;&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=RtUhwjSdR0033HUQtU7P3qIGXXSlB4QiEeEOHNya9GY935KP3M3GBl3JOOSTn6ck&amp;amp;slice_id=238&quot;&gt;&lt;font face=&quot;Inter, Helvetica, Arial&quot; style=&quot;&quot;&gt;Разметка датасаентистов&lt;/font&gt;&lt;br&gt;&lt;/a&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Inter, Helvetica, Arial&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-850">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-852" value="&lt;div class=&quot;css-6szfdn&quot; style=&quot;box-sizing: border-box; display: flex; overflow: hidden; text-overflow: ellipsis;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Inter, Helvetica, Arial&quot;&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=F2ETyixSsuHkq48Ygy468MRJsflmdAKxiYXl5aRYfFxR75JcsJy8M2QghFw83ekd&amp;amp;slice_id=642&quot;&gt;Цены на Сахар (кг).&lt;br&gt;&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Inter, Helvetica, Arial&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-850">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2779,7 +2779,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-855" value="&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=Op4xOnGwX6WSjaU_NXDalRm9ST90YzkYjOfbDyzDAwwvGijLB4YPDQi9wwHn2UeD&amp;amp;slice_id=237&quot;&gt;Фильтр по группе&lt;/a&gt;" style="shape=partialRectangle;connectable=0;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-853">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-855" value="&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=ieFhjoWG2T8R1ipjjnVW1SQvFbMQwAuzGvuO0h3Uin3VL7oA5Y1x7DH4DKA2GPkA&amp;amp;slice_id=643&quot;&gt;Соль (кг).&lt;/a&gt;" style="shape=partialRectangle;connectable=0;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-853">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2792,7 +2792,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-858" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=mDSAoHDG-L3qyAMwQfqDace1IF5j94M3EKJKqLdus5hpL8GAfCVGzRzV3dIBzj4n&amp;amp;slice_id=235&quot;&gt;Группы товаров разметки датасаентистов&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-856">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-858" value="&lt;div&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=cpejyg83-NVLvYYW_dPRszsfek1feCYFk6kWXCbfVAB9GCC6Qh1JAAxEvvtJP1L5&amp;amp;slice_id=644&quot;&gt;Цены на Говядина (кг).&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-856">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2805,7 +2805,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-861" value="&lt;div&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=7HlwIZnhvLEprDYQj0W_xM3kbWLruWQ70s_MJAFXO2BUzZaD2OCzcAJriM4D7CMZ&amp;amp;slice_id=236&quot;&gt;Состав группы&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-859">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-861" value="&lt;div&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=xGchC0Pfp0tLgTjZquz9JblOrnJAw7SnPNmubMuxp1ZnE6ZBzCk00k2WBMcLVmm7&amp;amp;slice_id=645&quot;&gt;Цены на Капуста (кг).&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-859">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2818,7 +2818,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-864" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=ijxTOUtzFO_Cwn9nh3wWV3vlESwEchxY0KmWwp0pEv5fGnkrxcdl3yGyHjE49mAM&amp;amp;slice_id=330&quot;&gt;Всего «Иное»&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#9673a6;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-862">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-864" value="&lt;div&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=VOQF87ZJLnor-6LO77nX0nAgYiZLhN_2YQDf_si7UgR1tXdADLMgqYfbGMeUVa5d&amp;amp;slice_id=646&quot;&gt;Цены на Картофель (кг).&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#9673a6;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-862">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2831,7 +2831,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-867" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=YRi54eJVmVeC-El5MaL7y-LLSaiPZp1Qoslbwp6P9ibrFcoQXYhLpOncr93LX1O2&amp;amp;slice_id=331&quot;&gt;Проверка «Иное» по регуляркам&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#f5ee24;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#f5ee24;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-865">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-867" value="&lt;div&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=AdcaIxJ-YRqb5DFTUHYVqJmrECGq-XC7yEe8IQkl-guo4NuDpFh-Q4AGyzO14Bp9&amp;amp;slice_id=647&quot;&gt;Цены на Макароны (кг).&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#f5ee24;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#f5ee24;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-865">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2844,13 +2844,13 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-870" value="&lt;div&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=QcSNzMKUap4RD0AycJ2KxGbbKZfTzWIZvpVkBywFICPSbsFAoxbj51Fgj4W7LsY1&amp;amp;slice_id=317&quot;&gt;Группа Иное&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-868">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-870" value="&lt;div&gt;&lt;font color=&quot;#0000ee&quot;&gt;&lt;u&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=MzLVWOUW_fTLdvi8gCXhEJKxjA2BqLldi0nkAb4NFx7Vdb7gzo2i3eM6ONbE9kUp&amp;amp;slice_id=648&quot;&gt;Цены на Масло растит (л).&lt;/a&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-868">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Anw2G6PZaNTNL3sMPsv6-871" value="Virtual Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="3210" y="467.5" width="250" height="90" as="geometry" />
+          <mxGeometry x="3220" y="397.5" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Anw2G6PZaNTNL3sMPsv6-872" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-871">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -2860,7 +2860,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-874" value="fiscal_item_classified_type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontSize=14;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-872">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-874" value="53_fns_minprom_check2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontSize=14;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-872">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2873,7 +2873,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-877" value="select pred_class_name as &quot;Группа&quot;, text_origin as &quot;Товар&quot;, md5 as id&#xa;, case when pred_class_name=&#39;Иное&#39; then pred_class_name else &#39;Размечено&#39; end as &quot;Разметка&quot;&#xa;from fns.fiscal_item_classified_type " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-875">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-877" value="select &#xa;c.datetime&#xa;, c.name&#xa;, c.price&#xa;, c.quantity&#xa;, c.&quot;sum&quot; as sums&#xa;, c.unit&#xa;, c.amount&#xa;, c.fns_value_ctg&#xa;, fv.value as fns_value&#xa;, fp.price as fns_price&#xa;, mp.price_avg&#xa;, (case when c.unit=&#39;кг&#39; and c.amount &gt;0 then c.price / c.amount else null end) as avg_price_cdt_52&#xa;from fns.mv_fns_minprom_check_zstd c&#xa;left join fns.fns_reports_product_value fv on fv.&quot;date&quot; = c.datetime and fv.product = c.fns_value_ctg&#xa;left join fns.fns_reports_product_price fp on fp.&quot;date&quot; = c.datetime and fp.product = c.fns_price_ctg&#xa;left join fns.minprom_product_reports mp on mp.dt = c.datetime and mp.product = c.minprom_price_ctg&#xa;where 1=1&#xa;and mp.price_avg is not null" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-875">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2891,8 +2891,8 @@
         <mxCell id="Anw2G6PZaNTNL3sMPsv6-879" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-880" target="Anw2G6PZaNTNL3sMPsv6-872">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-880" value="fns.fiscal_item_classified_type" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#cce5ff;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="3300" y="412.5" width="200" height="30" as="geometry" />
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-880" value="fns.mv_fns_minprom_check_zstd" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#cce5ff;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="350" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Anw2G6PZaNTNL3sMPsv6-881" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;fillColor=#dae8fc;strokeColor=#247bf5;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-853" target="Anw2G6PZaNTNL3sMPsv6-872">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -2923,6 +2923,26 @@
               <mxPoint x="2910" y="625" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-889" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-884" target="Anw2G6PZaNTNL3sMPsv6-872">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3610" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-884" value="fns.fns_reports_product_value" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#cce5ff;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="500" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-888" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-885" target="Anw2G6PZaNTNL3sMPsv6-872">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-885" value="fns.fns_reports_product_price" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#cce5ff;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="3215" y="530" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-887" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-886" target="Anw2G6PZaNTNL3sMPsv6-872">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-886" value="fns.minprom_product_reports" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#cce5ff;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="3190" y="560" width="200" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
