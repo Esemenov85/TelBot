@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T10:33:18.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ufucdI78hnZK1rk0qMHX" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T10:38:15.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0_2gINi82mImURZUuhAI" version="21.7.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1755,7 +1755,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-546" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=2_Y7QHMCBEd5vvGf-6kDRcn1XF7i1PsorauDkfJkSlaX5gHzganumt9MiypuEjyR&amp;amp;slice_id=427&quot;&gt;Сравнение средних цен по данным ККТ, Минпром и ФНС&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-544">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-546" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=2_Y7QHMCBEd5vvGf-6kDRcn1XF7i1PsorauDkfJkSlaX5gHzganumt9MiypuEjyR&amp;amp;slice_id=427&quot;&gt;Сравнение средних цен по данным ККТ, Минпром и ФНС&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-544">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1781,7 +1781,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-600" value="&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=LDjF9mCTqmXWrx2z7gmyjBupsNycfcmo_6IaPQ3Yqtae5dcU2fP6BcjEq30UeUky&amp;amp;slice_id=428&quot;&gt;Отклонения средних цен ККТ от средних цен Минпром и ФНС&lt;/a&gt;" style="shape=partialRectangle;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-598">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-600" value="&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=LDjF9mCTqmXWrx2z7gmyjBupsNycfcmo_6IaPQ3Yqtae5dcU2fP6BcjEq30UeUky&amp;amp;slice_id=428&quot;&gt;Отклонения средних цен ККТ от средних цен Минпром и ФНС&lt;/a&gt;" style="shape=partialRectangle;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-598">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1794,7 +1794,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-597" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=E3-z1a3Zz8eC0s3xN-mwip81DPF23wZcmlAYSXf1bwQsHo5UXK9qVp0IPYKK5GVe&amp;amp;slice_id=430&quot;&gt;Отклонение средних цен ККТ от Минпром&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-595">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-597" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=E3-z1a3Zz8eC0s3xN-mwip81DPF23wZcmlAYSXf1bwQsHo5UXK9qVp0IPYKK5GVe&amp;amp;slice_id=430&quot;&gt;Отклонение средних цен ККТ от Минпром&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-595">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1820,7 +1820,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-624" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=Cr0CjXKXiOR1Aq1vQVDs0hchXm0soh6QuP4eITr9UDlvBCiUJpymxRv9AMoblR_z&amp;amp;slice_id=413&quot;&gt;Цены на Сахар (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-622">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-624" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=Cr0CjXKXiOR1Aq1vQVDs0hchXm0soh6QuP4eITr9UDlvBCiUJpymxRv9AMoblR_z&amp;amp;slice_id=413&quot;&gt;Цены на Сахар (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-622">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1859,7 +1859,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-638" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=m2sJr_dq2V_iXrcFpRJOa0l0bVKTXJbkqNcbB_-pa26DdziEtgE_cmQ5noo4qNMC&amp;amp;slice_id=412&quot;&gt;Хлеб, кг&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-636">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-638" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=m2sJr_dq2V_iXrcFpRJOa0l0bVKTXJbkqNcbB_-pa26DdziEtgE_cmQ5noo4qNMC&amp;amp;slice_id=412&quot;&gt;Хлеб, кг&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-636">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1898,7 +1898,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-652" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=n2GQYDlCmxGZNy9mS71_pqzYZIrrQnX7F4_12VAThOEfGKiseY1qxsg1jimQBvGf&amp;amp;slice_id=414&quot;&gt;Соль (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-650">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-652" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=n2GQYDlCmxGZNy9mS71_pqzYZIrrQnX7F4_12VAThOEfGKiseY1qxsg1jimQBvGf&amp;amp;slice_id=414&quot;&gt;Соль (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-650">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1937,7 +1937,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-664" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-662">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-664" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=MlF9c_nWroW9qh55QKzqeW4FqA9gKglTREpW8HRUcRm24JHFL1HazaCMDCKZlXRo&amp;amp;slice_id=419&quot;&gt;Цены на Говядина (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-662">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1950,7 +1950,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-661" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-659">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-661" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=8nbBq88MsyJeaTRqqIWLnIu--wOD2xQjzQTbTAvDfTbxstQ7DLGRDWULdDifUtNQ&amp;amp;slice_id=418&quot;&gt;Потребление Говядина (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-659">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1963,7 +1963,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-679" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-677">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-679" value="Капуста (кг)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-677">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1976,7 +1976,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-676" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-674">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-676" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=VwxX3C1ErniDlA8z7EHgxUx-MeADaxFwK0c8eJbq3R0Qr3_LZGTRMKK6jX2qv89Y&amp;amp;slice_id=423&quot;&gt;Цены на Капуста (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-674">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1989,7 +1989,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-673" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-671">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-673" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=qfljtoy_MEve62HtCbWXLX5DqpFxh3xcthj5N4STck3ysI--DjsJxRqN3wIuGBhf&amp;amp;slice_id=420&quot;&gt;Потребление Капуста (кг)&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-671">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2015,7 +2015,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-690" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-688">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-690" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-688">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2028,7 +2028,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-687" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-685">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-687" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-685">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2054,7 +2054,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-714" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-712">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-714" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-712">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2067,7 +2067,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-711" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-709">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-711" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-709">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2093,7 +2093,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-726" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-724">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-726" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-724">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2106,7 +2106,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-723" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-721">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-723" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-721">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2132,7 +2132,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-738" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-736">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-738" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-736">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2145,7 +2145,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-735" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-733">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-735" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-733">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2171,7 +2171,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-750" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-748">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-750" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-748">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2184,7 +2184,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-747" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-745">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-747" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-745">
           <mxGeometry x="20" width="330" height="30" as="geometry">
             <mxRectangle width="330" height="30" as="alternateBounds" />
           </mxGeometry>
