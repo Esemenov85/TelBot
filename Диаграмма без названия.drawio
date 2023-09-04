@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T07:57:43.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UujwBrVd8AlTKnBzBKkb" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T08:01:31.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xFua8JxndYxp5HYIkQkm" version="21.7.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1069,7 +1069,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Anw2G6PZaNTNL3sMPsv6-349" value="Дашборд 52 категории" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="480" width="350" height="270" as="geometry">
+          <mxGeometry x="1570" y="480" width="350" height="300" as="geometry">
             <mxRectangle x="120" y="120" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1159,7 +1159,7 @@
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-376" value="&lt;div&gt;Тепловая карта продуктов и районов&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#9673a6;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-374">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-376" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=uZviVmU64gbMqFEzCbKYSZAQqtiUEsGw6bUzPqRJATR3ghjfvApicRpi1jOT-pxj&amp;amp;slice_id=252&quot;&gt;Доля продаж по торговым сетям&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#9673a6;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-374">
           <mxGeometry x="40" width="310" height="30" as="geometry">
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1172,7 +1172,20 @@
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anw2G6PZaNTNL3sMPsv6-379" value="Дерево продуктов и районов" style="shape=partialRectangle;connectable=0;fillColor=#f5ee24;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#f5ee24;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-377">
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-379" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=mPjvwdr2BUznLwjTt0PsCVpG_8nwAViFeukQtNdB3ZfT-5_qEofISfGpjUX9I30D&amp;amp;slice_id=249&quot;&gt;Изменение средней цены по торговым сетям&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#f5ee24;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#f5ee24;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-377">
+          <mxGeometry x="40" width="310" height="30" as="geometry">
+            <mxRectangle width="310" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-390" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-349">
+          <mxGeometry y="270" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-391" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-390">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-392" value="&lt;div&gt;&lt;a href=&quot;https://index.tatarstan.ru/atp/explore/?form_data_key=UXlr4vyVxvmEXqvm5cQtikUijWUZvGlyn9vrDGge9iPuaAPnBqrKVnLBdveg-bmV&amp;amp;slice_id=250&quot;&gt;Изменение средней цены по муниципальным районам&lt;/a&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#36393d;" vertex="1" parent="Anw2G6PZaNTNL3sMPsv6-390">
           <mxGeometry x="40" width="310" height="30" as="geometry">
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1198,6 +1211,24 @@
         <mxCell id="Anw2G6PZaNTNL3sMPsv6-383" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-371" target="Anw2G6PZaNTNL3sMPsv6-324">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1580" y="655" as="sourcePoint" />
+            <mxPoint x="1440" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-396" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-374" target="Anw2G6PZaNTNL3sMPsv6-324">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1580" y="685" as="sourcePoint" />
+            <mxPoint x="1440" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-397" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-377" target="Anw2G6PZaNTNL3sMPsv6-324">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1580" y="715" as="sourcePoint" />
+            <mxPoint x="1440" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw2G6PZaNTNL3sMPsv6-398" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Anw2G6PZaNTNL3sMPsv6-390" target="Anw2G6PZaNTNL3sMPsv6-324">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1580" y="745" as="sourcePoint" />
             <mxPoint x="1440" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
