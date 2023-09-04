@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T14:51:38.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Copv7eMoHOZjVQwv3TLq" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-04T14:54:18.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UuGI21-ETIiM1L1lB-IA" version="21.7.2" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Dashboard">
     <mxGraphModel dx="1912" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3344,6 +3344,18 @@
         </mxCell>
         <mxCell id="15fX4EQbaWXdSjKJ_kLc-1" value="fns.fiscal_items_info_new" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2440" y="1101.5" width="150" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Vye97n4CUteq07Do4erw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vye97n4CUteq07Do4erw-3" target="AG0Sv5tocZl42YBSoryR-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3419" y="840" />
+              <mxPoint x="3350" y="840" />
+              <mxPoint x="3350" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vye97n4CUteq07Do4erw-3" value="fns.mv_fns_52ctg_br_zstd_ctg" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="3334" y="890" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
