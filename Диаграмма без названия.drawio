@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T14:33:40.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0AQ1srrGxzwRmBU7tHTA" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-04T14:39:29.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8NZuMFYb-AZSOlwvOV1y" version="21.7.2" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Dashboard">
     <mxGraphModel dx="1912" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3319,6 +3319,15 @@
         </mxCell>
         <mxCell id="MCtyxdIwKlNsDYoA1HsH-19" value="fns.fiscal_item_view" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2639" y="1123" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="15fX4EQbaWXdSjKJ_kLc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="15fX4EQbaWXdSjKJ_kLc-1" target="MCtyxdIwKlNsDYoA1HsH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15fX4EQbaWXdSjKJ_kLc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="15fX4EQbaWXdSjKJ_kLc-1" target="MCtyxdIwKlNsDYoA1HsH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15fX4EQbaWXdSjKJ_kLc-1" value="fns.fiscal_items_info_new" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="1101.5" width="150" height="38.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
