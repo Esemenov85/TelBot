@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T07:10:57.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sLG8FmMZwka3ExgfeR_c" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-05T07:23:47.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="x-gLHMkhE0cV8vejQnwt" version="21.7.2" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Dashboard">
     <mxGraphModel dx="1912" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3187,30 +3187,11 @@
         <mxCell id="MCtyxdIwKlNsDYoA1HsH-16" value="fns.fiscal_kkt_uniq_mat_view" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2680" y="1152.5" width="170" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="MCtyxdIwKlNsDYoA1HsH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MCtyxdIwKlNsDYoA1HsH-18" target="AG0Sv5tocZl42YBSoryR-274" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2880" y="1112" />
-              <mxPoint x="2880" y="1121" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MCtyxdIwKlNsDYoA1HsH-18" value="fns.fiscal_item_view fiscal_items_info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2639" y="1100" width="211" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="MCtyxdIwKlNsDYoA1HsH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MCtyxdIwKlNsDYoA1HsH-19" target="AG0Sv5tocZl42YBSoryR-274" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2860" y="1133" />
-              <mxPoint x="2860" y="1121" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="aiJJM0MRgzJMyIGJajMD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MCtyxdIwKlNsDYoA1HsH-19" target="AG0Sv5tocZl42YBSoryR-274">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MCtyxdIwKlNsDYoA1HsH-19" value="fns.fiscal_item_view" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="2639" y="1123" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="15fX4EQbaWXdSjKJ_kLc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="15fX4EQbaWXdSjKJ_kLc-1" target="MCtyxdIwKlNsDYoA1HsH-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2740" y="1111.25" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="15fX4EQbaWXdSjKJ_kLc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="15fX4EQbaWXdSjKJ_kLc-1" target="MCtyxdIwKlNsDYoA1HsH-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3218,12 +3199,12 @@
         <mxCell id="15fX4EQbaWXdSjKJ_kLc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="15fX4EQbaWXdSjKJ_kLc-1" target="AG0Sv5tocZl42YBSoryR-273" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2590" y="1090" />
+              <mxPoint x="2700" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="15fX4EQbaWXdSjKJ_kLc-1" value="fns.fiscal_items_info_new" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="1101.5" width="150" height="38.5" as="geometry" />
+          <mxGeometry x="2550" y="1102" width="150" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="Vye97n4CUteq07Do4erw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vye97n4CUteq07Do4erw-3" target="AG0Sv5tocZl42YBSoryR-180" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3279,6 +3260,26 @@
               <mxPoint x="3582" y="1300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aiJJM0MRgzJMyIGJajMD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZNcK03wYwFxebPmaEBuV-1" target="AG0Sv5tocZl42YBSoryR-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3755" y="830" />
+              <mxPoint x="3460" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNcK03wYwFxebPmaEBuV-1" value="fns.fiscal_item_classified_type" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3670" y="890" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aiJJM0MRgzJMyIGJajMD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiJJM0MRgzJMyIGJajMD-2" target="ZNcK03wYwFxebPmaEBuV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiJJM0MRgzJMyIGJajMD-2" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;create table fiscal_item_classified_type&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; text_origin&amp;nbsp; &amp;nbsp; &amp;nbsp;text,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; pred_class_name text,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; unit&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; varchar,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; amount&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; numeric(20, 4),&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; md5&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;text,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; insert_date&amp;nbsp; &amp;nbsp; &amp;nbsp;timestamp&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; with (compresstype = zstd, orientation = column, appendonly = true)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; distributed randomly;&lt;/font&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="3670" y="960" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aiJJM0MRgzJMyIGJajMD-4" value="Note" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="1250" width="190" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
